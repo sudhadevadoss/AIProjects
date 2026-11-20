@@ -1,0 +1,101 @@
+title,pred,gold,themes,primary_match,in_multilabel
+Support Case #3286 - Vanta Health Systems API Integration Error,OUTAGE_INCIDENT,PRODUCT_DEFECT,"['OUTAGE_INCIDENT', 'PRODUCT_DEFECT']",False,True
+Aegis / Coastal Living Co - Onboarding Kickoff,ONBOARDING,ONBOARDING,['ONBOARDING'],True,True
+Detect Team - Sprint Planning,PLANNING,PLANNING,['PLANNING'],True,True
+Support Case #9279 - Summit Trust Billing Inquiry,BILLING,BILLING,['BILLING'],True,True
+Aegis / Blackridge Investments - Renewal Discussion,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Product Sync - Identity Roadmap,PLANNING,PLANNING,['PLANNING'],True,True
+Support Case #3615 - Nimbus Platform Custom Report Request,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Aegis / Brightpath Commerce - Detect Module Deployment,ONBOARDING,ONBOARDING,"['ONBOARDING', 'OUTAGE_INCIDENT']",True,True
+Comply v2 - Design Review,COMPLIANCE_AUDIT,LAUNCH,"['COMPLIANCE_AUDIT', 'LAUNCH']",False,True
+Aegis / Bridgeport Health - Compliance Review,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Support Case #6635 - Nova Retail Group SSO Login Failures,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'OUTAGE_INCIDENT']",True,True
+Weekly Engineering Standup,LAUNCH,PLANNING,"['LAUNCH', 'PLANNING']",False,True
+Aegis / Crestline Wealth - Account Review,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Support Case #1750 - Vanta Health Systems SIEM Connector Issue,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Competitive Landscape Review,CHURN_COMPETITIVE,CHURN_COMPETITIVE,['CHURN_COMPETITIVE'],True,True
+Aegis / Frostbyte AI - Identity Module Setup,ONBOARDING,ONBOARDING,['ONBOARDING'],True,True
+Support Case #6977 - Brightpath Commerce Slow Backup Performance,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Aegis / Redwood Clinical - Product Feedback Session,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Protect Team - Quarterly Planning,PLANNING,PLANNING,['PLANNING'],True,True
+Support Case #3677 - Coastal Living Co MFA Token Failures,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'OUTAGE_INCIDENT']",True,True
+Aegis / Atlas Precision - Contract Discussion,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+SOC 2 Audit Preparation - Internal,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Support Case #7572 - Brightpath Commerce Invoice Discrepancy,BILLING,BILLING,['BILLING'],True,True
+Aegis / Maplewood Goods - SOC 2 Prep Review,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+All Hands - February Wrap,LAUNCH,PLANNING,"['LAUNCH', 'CHURN_COMPETITIVE', 'PLANNING']",False,True
+Aegis / Vanta Health Systems - Backup Strategy Workshop,ONBOARDING,ONBOARDING,['ONBOARDING'],True,True
+Detect Team - Sprint Planning,PLANNING,PLANNING,['PLANNING'],True,True
+Aegis / Pineridge Systems - Q1 Business Review,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Aegis / Harborview Banking - Threat Detection Tuning,ONBOARDING,ONBOARDING,['ONBOARDING'],True,True
+Aegis / Stratos Cloud - Audit Preparation,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Aegis / Ridgeline Logistics - Identity Roadmap Discussion,FEATURE_GAP,FEATURE_GAP,"['FEATURE_GAP', 'RENEWAL_EXPANSION']",True,True
+Support Case #3546 - Meridian Capital SCIM Provisioning Request,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Aegis / Keystone Health - Renewal Planning,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+URGENT: Cobalt Software - Aegis Detect Dashboard Down,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+INCIDENT: Detect Pipeline Failure - War Room,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Detect Outage - Escalation Bridge,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Support Case #3266 - Trailhead Marketplace Detect Alerts Not Firing,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Aegis / Northstar Pharma - Urgent: Detect Outage Impact,OUTAGE_INCIDENT,OUTAGE_INCIDENT,"['OUTAGE_INCIDENT', 'CHURN_COMPETITIVE']",True,True
+Detect Outage - Customer Impact Assessment,OUTAGE_INCIDENT,OUTAGE_INCIDENT,"['OUTAGE_INCIDENT', 'CHURN_COMPETITIVE']",True,True
+URGENT: Blackridge Investments - Complete Loss of Threat Visibility,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Support Case #6573 - Ridgeline Logistics Detect Data Gaps,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Aegis / Meridian Capital - Service Reliability Discussion,CHURN_COMPETITIVE,OUTAGE_INCIDENT,"['CHURN_COMPETITIVE', 'OUTAGE_INCIDENT']",False,True
+Detect Outage - Root Cause Analysis,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Support Case #5889 - Ridgeline Logistics Detect Latency Issues,OUTAGE_INCIDENT,OUTAGE_INCIDENT,"['OUTAGE_INCIDENT', 'PRODUCT_DEFECT']",True,True
+ESCALATION: Northstar Pharma - Detect Outage Impact on Compliance,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Detect Outage - Remediation Plan Review,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Support Case #3103 - Silverline Brands Detect False Positives After Patch,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Aegis / Helix Data - Post-Incident Review,OUTAGE_INCIDENT,OUTAGE_INCIDENT,"['OUTAGE_INCIDENT', 'CHURN_COMPETITIVE']",True,True
+Support Case #7537 - Forge Industries Detect Recovery Confirmation,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Detect Outage - Post-Incident Review,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Aegis / Quantum Edge - Renewal Concerns,CHURN_COMPETITIVE,CHURN_COMPETITIVE,"['CHURN_COMPETITIVE', 'RENEWAL_EXPANSION']",True,True
+Competitive Threat Assessment - Post Outage,OUTAGE_INCIDENT,CHURN_COMPETITIVE,"['OUTAGE_INCIDENT', 'CHURN_COMPETITIVE']",False,True
+Aegis / Nova Retail Group - Renewal Discussion,CHURN_COMPETITIVE,CHURN_COMPETITIVE,"['CHURN_COMPETITIVE', 'RENEWAL_EXPANSION', 'OUTAGE_INCIDENT']",True,True
+Support Case #6539 - Steelpoint Manufacturing LDAP Sync Failures,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'FEATURE_GAP']",True,True
+Comply v2 - Launch Readiness Review,LAUNCH,LAUNCH,"['LAUNCH', 'COMPLIANCE_AUDIT']",True,True
+Aegis / Steelpoint Manufacturing - Contract Review,CHURN_COMPETITIVE,CHURN_COMPETITIVE,"['CHURN_COMPETITIVE', 'RENEWAL_EXPANSION', 'OUTAGE_INCIDENT']",True,True
+Support Case #1514 - Meridian Capital Granular Restore Request,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Aegis / Summit Trust - Platform Concerns Discussion,CHURN_COMPETITIVE,CHURN_COMPETITIVE,['CHURN_COMPETITIVE'],True,True
+Aegis / Ironclad Financial - Account Recovery Check-in,OUTAGE_INCIDENT,CHURN_COMPETITIVE,"['OUTAGE_INCIDENT', 'CHURN_COMPETITIVE', 'RENEWAL_EXPANSION']",False,True
+Identity Team - Sprint Retro,PLANNING,PLANNING,['PLANNING'],True,True
+Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Aegis / Nimbus Platform - Comply v2 Preview,LAUNCH,LAUNCH,"['LAUNCH', 'COMPLIANCE_AUDIT', 'ONBOARDING']",True,True
+Comply v2 - GA Deployment Plan,LAUNCH,LAUNCH,['LAUNCH'],True,True
+Aegis / Silverline Brands - Comply v2 Early Access Demo,COMPLIANCE_AUDIT,LAUNCH,"['COMPLIANCE_AUDIT', 'LAUNCH']",False,True
+Support Case #1993 - Forge Industries Comply v2 Early Access Question,LAUNCH,LAUNCH,"['LAUNCH', 'FEATURE_GAP', 'COMPLIANCE_AUDIT']",True,True
+Comply v2 - Launch Day Checklist,LAUNCH,LAUNCH,['LAUNCH'],True,True
+Aegis / Trailhead Marketplace - Renewal Confirmation,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Detect Reliability - 30-Day Review,OUTAGE_INCIDENT,OUTAGE_INCIDENT,['OUTAGE_INCIDENT'],True,True
+Aegis / Clearwater Medical - Comply v2 Deployment Kickoff,ONBOARDING,ONBOARDING,"['ONBOARDING', 'COMPLIANCE_AUDIT']",True,True
+Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Aegis / Forge Industries - PCI DSS Compliance Review,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Competitive Response Strategy,CHURN_COMPETITIVE,CHURN_COMPETITIVE,"['CHURN_COMPETITIVE', 'OUTAGE_INCIDENT', 'COMPLIANCE_AUDIT']",True,True
+Support Case #8179 - Clearwater Medical Overage Charges Dispute,BILLING,BILLING,['BILLING'],True,True
+Aegis / Cobalt Software - Q2 Planning,RENEWAL_EXPANSION,RENEWAL_EXPANSION,"['RENEWAL_EXPANSION', 'OUTAGE_INCIDENT']",True,True
+Support Case #9856 - Silverline Brands Backup Window Exceeded,PRODUCT_DEFECT,PRODUCT_DEFECT,['PRODUCT_DEFECT'],True,True
+Identity Team - Q2 Roadmap,CHURN_COMPETITIVE,PLANNING,"['CHURN_COMPETITIVE', 'PLANNING']",False,True
+Aegis / Ironworks Corp - Vendor Comparison Discussion,CHURN_COMPETITIVE,CHURN_COMPETITIVE,['CHURN_COMPETITIVE'],True,True
+Support Case #6147 - Summit Trust Detect Alert Delays,OUTAGE_INCIDENT,PRODUCT_DEFECT,"['OUTAGE_INCIDENT', 'PRODUCT_DEFECT']",False,True
+Protect Performance - Scalability Concerns,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'CHURN_COMPETITIVE', 'OUTAGE_INCIDENT']",True,True
+Aegis / Pinnacle Insurance - Detect Roadmap Review,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Aegis / Axiom Labs - Multi-Year Renewal,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Weekly Engineering Standup,OUTAGE_INCIDENT,PLANNING,"['OUTAGE_INCIDENT', 'PRODUCT_DEFECT', 'PLANNING']",False,True
+Support Case #7570 - Silverline Brands Comply v2 License Upgrade,BILLING,BILLING,['BILLING'],True,True
+Aegis / Coastal Living Co - Protect Module Expansion,ONBOARDING,RENEWAL_EXPANSION,['ONBOARDING'],False,False
+SOC 2 Type II - Final Review,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Aegis / Blackridge Investments - HIPAA Compliance Review,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Support Case #3536 - Stratos Cloud LogVault Integration Timeout,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'OUTAGE_INCIDENT']",True,True
+Comply v2 - Adoption Metrics Review,LAUNCH,LAUNCH,['LAUNCH'],True,True
+Aegis / Brightpath Commerce - Competitive Evaluation,CHURN_COMPETITIVE,CHURN_COMPETITIVE,"['CHURN_COMPETITIVE', 'OUTAGE_INCIDENT', 'RENEWAL_EXPANSION']",True,True
+Aegis / Bridgeport Health - Renewal Finalization,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True
+Win/Loss Analysis - Q1,CHURN_COMPETITIVE,CHURN_COMPETITIVE,['CHURN_COMPETITIVE'],True,True
+Aegis / Crestline Wealth - Identity Module Deployment,ONBOARDING,ONBOARDING,"['ONBOARDING', 'COMPLIANCE_AUDIT']",True,True
+Aegis / Frostbyte AI - Product Feedback,FEATURE_GAP,FEATURE_GAP,['FEATURE_GAP'],True,True
+Support Case #8811 - Blackridge Investments Custom Compliance Template,FEATURE_GAP,FEATURE_GAP,"['FEATURE_GAP', 'LAUNCH']",True,True
+All Hands - April Update,OUTAGE_INCIDENT,PLANNING,"['OUTAGE_INCIDENT', 'PLANNING', 'LAUNCH']",False,True
+Aegis / Redwood Clinical - ISO 27001 Preparation,COMPLIANCE_AUDIT,COMPLIANCE_AUDIT,['COMPLIANCE_AUDIT'],True,True
+Support Case #7615 - Crestline Wealth Group Policy Sync Delay,PRODUCT_DEFECT,PRODUCT_DEFECT,"['PRODUCT_DEFECT', 'OUTAGE_INCIDENT']",True,True
+Detect Team - Reliability Sprint Retro,PLANNING,PLANNING,['PLANNING'],True,True
+Aegis / Atlas Precision - Annual Review & Renewal,RENEWAL_EXPANSION,RENEWAL_EXPANSION,['RENEWAL_EXPANSION'],True,True

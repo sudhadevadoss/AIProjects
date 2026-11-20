@@ -1,0 +1,6 @@
+start,account,title,call_type,vendor_sentiment_score,cust_arc_delta,root_cause_hint,customer_unaware_of_usage
+2026-02-06 09:15:00,Summit Trust,Support Case #9279 - Summit Trust Billing Inquiry,support,3.8,0.16666666666666666,seat,True
+2026-02-25 15:00:00,Atlas Precision,Aegis / Atlas Precision - Contract Discussion,external,3.7,0.0,new production facilities,False
+2026-02-27 13:00:00,Brightpath Commerce,Support Case #7572 - Brightpath Commerce Invoice Discrepancy,support,3.7,0.16666666666666666,policy change,True
+2026-04-10 17:30:00,Clearwater Medical,Support Case #8179 - Clearwater Medical Overage Charges Dispute,support,2.4,-0.08571428571428574,no knowledge of plan limits,True
+2026-04-18 09:15:00,Silverline Brands,Support Case #7570 - Silverline Brands Comply v2 License Upgrade,support,3.9,0.2857142857142857,proration,False

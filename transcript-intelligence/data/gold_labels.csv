@@ -1,0 +1,101 @@
+date,title,primary_theme
+2026-02-03,Support Case #3286 - Vanta Health Systems API Integration Error,PRODUCT_DEFECT
+2026-02-04,Aegis / Coastal Living Co - Onboarding Kickoff,ONBOARDING
+2026-02-05,Detect Team - Sprint Planning,PLANNING
+2026-02-06,Support Case #9279 - Summit Trust Billing Inquiry,BILLING
+2026-02-07,Aegis / Blackridge Investments - Renewal Discussion,RENEWAL_EXPANSION
+2026-02-09,Product Sync - Identity Roadmap,PLANNING
+2026-02-10,Support Case #3615 - Nimbus Platform Custom Report Request,FEATURE_GAP
+2026-02-11,Aegis / Brightpath Commerce - Detect Module Deployment,ONBOARDING
+2026-02-12,Comply v2 - Design Review,LAUNCH
+2026-02-13,Aegis / Bridgeport Health - Compliance Review,COMPLIANCE_AUDIT
+2026-02-14,Support Case #6635 - Nova Retail Group SSO Login Failures,PRODUCT_DEFECT
+2026-02-16,Weekly Engineering Standup,PLANNING
+2026-02-17,Aegis / Crestline Wealth - Account Review,RENEWAL_EXPANSION
+2026-02-18,Support Case #1750 - Vanta Health Systems SIEM Connector Issue,PRODUCT_DEFECT
+2026-02-19,Competitive Landscape Review,CHURN_COMPETITIVE
+2026-02-19,Aegis / Frostbyte AI - Identity Module Setup,ONBOARDING
+2026-02-21,Support Case #6977 - Brightpath Commerce Slow Backup Performance,PRODUCT_DEFECT
+2026-02-22,Aegis / Redwood Clinical - Product Feedback Session,FEATURE_GAP
+2026-02-23,Protect Team - Quarterly Planning,PLANNING
+2026-02-24,Support Case #3677 - Coastal Living Co MFA Token Failures,PRODUCT_DEFECT
+2026-02-25,Aegis / Atlas Precision - Contract Discussion,RENEWAL_EXPANSION
+2026-02-26,SOC 2 Audit Preparation - Internal,COMPLIANCE_AUDIT
+2026-02-27,Support Case #7572 - Brightpath Commerce Invoice Discrepancy,BILLING
+2026-02-27,Aegis / Maplewood Goods - SOC 2 Prep Review,COMPLIANCE_AUDIT
+2026-02-28,All Hands - February Wrap,PLANNING
+2026-02-28,Aegis / Vanta Health Systems - Backup Strategy Workshop,ONBOARDING
+2026-03-02,Detect Team - Sprint Planning,PLANNING
+2026-03-03,Aegis / Pineridge Systems - Q1 Business Review,RENEWAL_EXPANSION
+2026-03-04,Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector,PRODUCT_DEFECT
+2026-03-05,Aegis / Harborview Banking - Threat Detection Tuning,ONBOARDING
+2026-03-06,Aegis / Stratos Cloud - Audit Preparation,COMPLIANCE_AUDIT
+2026-03-07,Aegis / Ridgeline Logistics - Identity Roadmap Discussion,FEATURE_GAP
+2026-03-07,Support Case #3546 - Meridian Capital SCIM Provisioning Request,FEATURE_GAP
+2026-03-09,Aegis / Keystone Health - Renewal Planning,RENEWAL_EXPANSION
+2026-03-10,URGENT: Cobalt Software - Aegis Detect Dashboard Down,OUTAGE_INCIDENT
+2026-03-10,INCIDENT: Detect Pipeline Failure - War Room,OUTAGE_INCIDENT
+2026-03-11,Detect Outage - Escalation Bridge,OUTAGE_INCIDENT
+2026-03-11,Support Case #3266 - Trailhead Marketplace Detect Alerts Not Firing,OUTAGE_INCIDENT
+2026-03-12,Aegis / Northstar Pharma - Urgent: Detect Outage Impact,OUTAGE_INCIDENT
+2026-03-12,Detect Outage - Customer Impact Assessment,OUTAGE_INCIDENT
+2026-03-12,URGENT: Blackridge Investments - Complete Loss of Threat Visibility,OUTAGE_INCIDENT
+2026-03-13,Support Case #6573 - Ridgeline Logistics Detect Data Gaps,OUTAGE_INCIDENT
+2026-03-14,Aegis / Meridian Capital - Service Reliability Discussion,OUTAGE_INCIDENT
+2026-03-14,Detect Outage - Root Cause Analysis,OUTAGE_INCIDENT
+2026-03-14,Support Case #5889 - Ridgeline Logistics Detect Latency Issues,OUTAGE_INCIDENT
+2026-03-15,ESCALATION: Northstar Pharma - Detect Outage Impact on Compliance,OUTAGE_INCIDENT
+2026-03-16,Detect Outage - Remediation Plan Review,OUTAGE_INCIDENT
+2026-03-16,Support Case #3103 - Silverline Brands Detect False Positives After Patch,PRODUCT_DEFECT
+2026-03-17,Aegis / Helix Data - Post-Incident Review,OUTAGE_INCIDENT
+2026-03-18,Support Case #7537 - Forge Industries Detect Recovery Confirmation,OUTAGE_INCIDENT
+2026-03-18,Detect Outage - Post-Incident Review,OUTAGE_INCIDENT
+2026-03-19,Aegis / Quantum Edge - Renewal Concerns,CHURN_COMPETITIVE
+2026-03-20,Competitive Threat Assessment - Post Outage,CHURN_COMPETITIVE
+2026-03-21,Aegis / Nova Retail Group - Renewal Discussion,CHURN_COMPETITIVE
+2026-03-22,Support Case #6539 - Steelpoint Manufacturing LDAP Sync Failures,PRODUCT_DEFECT
+2026-03-24,Comply v2 - Launch Readiness Review,LAUNCH
+2026-03-24,Aegis / Steelpoint Manufacturing - Contract Review,CHURN_COMPETITIVE
+2026-03-26,Support Case #1514 - Meridian Capital Granular Restore Request,FEATURE_GAP
+2026-03-26,Aegis / Summit Trust - Platform Concerns Discussion,CHURN_COMPETITIVE
+2026-03-28,Aegis / Ironclad Financial - Account Recovery Check-in,CHURN_COMPETITIVE
+2026-03-28,Identity Team - Sprint Retro,PLANNING
+2026-03-29,Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug,PRODUCT_DEFECT
+2026-04-01,Aegis / Nimbus Platform - Comply v2 Preview,LAUNCH
+2026-04-01,Comply v2 - GA Deployment Plan,LAUNCH
+2026-04-03,Aegis / Silverline Brands - Comply v2 Early Access Demo,LAUNCH
+2026-04-03,Support Case #1993 - Forge Industries Comply v2 Early Access Question,LAUNCH
+2026-04-04,Comply v2 - Launch Day Checklist,LAUNCH
+2026-04-05,Aegis / Trailhead Marketplace - Renewal Confirmation,RENEWAL_EXPANSION
+2026-04-07,Detect Reliability - 30-Day Review,OUTAGE_INCIDENT
+2026-04-07,Aegis / Clearwater Medical - Comply v2 Deployment Kickoff,ONBOARDING
+2026-04-08,Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue,PRODUCT_DEFECT
+2026-04-09,Aegis / Forge Industries - PCI DSS Compliance Review,COMPLIANCE_AUDIT
+2026-04-10,Competitive Response Strategy,CHURN_COMPETITIVE
+2026-04-10,Support Case #8179 - Clearwater Medical Overage Charges Dispute,BILLING
+2026-04-11,Aegis / Cobalt Software - Q2 Planning,RENEWAL_EXPANSION
+2026-04-12,Support Case #9856 - Silverline Brands Backup Window Exceeded,PRODUCT_DEFECT
+2026-04-13,Identity Team - Q2 Roadmap,PLANNING
+2026-04-14,Aegis / Ironworks Corp - Vendor Comparison Discussion,CHURN_COMPETITIVE
+2026-04-15,Support Case #6147 - Summit Trust Detect Alert Delays,PRODUCT_DEFECT
+2026-04-15,Protect Performance - Scalability Concerns,PRODUCT_DEFECT
+2026-04-16,Aegis / Pinnacle Insurance - Detect Roadmap Review,FEATURE_GAP
+2026-04-17,Aegis / Axiom Labs - Multi-Year Renewal,RENEWAL_EXPANSION
+2026-04-17,Weekly Engineering Standup,PLANNING
+2026-04-18,Support Case #7570 - Silverline Brands Comply v2 License Upgrade,BILLING
+2026-04-19,Aegis / Coastal Living Co - Protect Module Expansion,RENEWAL_EXPANSION
+2026-04-20,SOC 2 Type II - Final Review,COMPLIANCE_AUDIT
+2026-04-21,Aegis / Blackridge Investments - HIPAA Compliance Review,COMPLIANCE_AUDIT
+2026-04-22,Support Case #3536 - Stratos Cloud LogVault Integration Timeout,PRODUCT_DEFECT
+2026-04-22,Comply v2 - Adoption Metrics Review,LAUNCH
+2026-04-22,Aegis / Brightpath Commerce - Competitive Evaluation,CHURN_COMPETITIVE
+2026-04-23,Aegis / Bridgeport Health - Renewal Finalization,RENEWAL_EXPANSION
+2026-04-24,Win/Loss Analysis - Q1,CHURN_COMPETITIVE
+2026-04-24,Aegis / Crestline Wealth - Identity Module Deployment,ONBOARDING
+2026-04-25,Aegis / Frostbyte AI - Product Feedback,FEATURE_GAP
+2026-04-25,Support Case #8811 - Blackridge Investments Custom Compliance Template,FEATURE_GAP
+2026-04-26,All Hands - April Update,PLANNING
+2026-04-26,Aegis / Redwood Clinical - ISO 27001 Preparation,COMPLIANCE_AUDIT
+2026-04-27,Support Case #7615 - Crestline Wealth Group Policy Sync Delay,PRODUCT_DEFECT
+2026-04-28,Detect Team - Reliability Sprint Retro,PLANNING
+2026-04-28,Aegis / Atlas Precision - Annual Review & Renewal,RENEWAL_EXPANSION

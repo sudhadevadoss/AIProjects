@@ -1,0 +1,4 @@
+call_type,calls,vendor_score,nsi_customer,nsi_internal,nsi_all,cust_arc_delta
+external,40,3.85,0.2,0.47,0.34,0.36
+internal,30,3.42,,0.04,0.04,
+support,30,2.83,-0.37,0.01,-0.17,0.23

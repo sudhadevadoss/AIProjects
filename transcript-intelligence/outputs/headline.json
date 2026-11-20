@@ -1,0 +1,29 @@
+{
+  "meetings": 100,
+  "call_types": {
+    "external": 40,
+    "support": 30,
+    "internal": 30
+  },
+  "theme_accuracy_vs_gold": 0.87,
+  "vendor_vs_vader_direction_agreement": 0.784,
+  "sentiment_by_call_type": {
+    "external": 3.85,
+    "internal": 3.42,
+    "support": 2.83
+  },
+  "at_risk_accounts": [
+    "Summit Trust",
+    "Brightpath Commerce",
+    "Northstar Pharma",
+    "Nova Retail",
+    "Meridian Capital",
+    "Steelpoint Manufacturing",
+    "Cobalt Software",
+    "Quantum Edge",
+    "Ironworks Corp"
+  ],
+  "early_warning_lead_days": 32,
+  "remediation_fallout_calls": 4,
+  "preventable_known_bug_calls": 3
+}
